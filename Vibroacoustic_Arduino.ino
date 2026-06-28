@@ -3,8 +3,8 @@
 
 void init_network(void);
 
-char ssid[] = "NOWTVPF1ZK";                // your network SSID (name), NOWTVPF1ZK, GalaxyS228EE4
-char pass[] = "iuWqycGfqbkJ";                // your network password (use for WPA, or use as key for WEP), iuWqycGfqbkJ, zyqo9657
+char ssid[] = "88888888";                // your network SSID (name)
+char pass[] = "***********";                // your network password (use for WPA, or use as key for WEP)
 //======================================================================= WIFI
 int packetSize; //received udp packet size
 char packetBuffer[256]; //buffer to hold incoming packet
